@@ -1,5 +1,6 @@
 ### This project was completed as part of the Columbia University 2021 Data Science Hackathon
 - Competition lasted about 14 hours to complete both code and presentation portions of submission
+- Worked as part of a great team, uploaded my specific portions of the project here
 
 ### Used the COVID-19 misinformation dataset to create an algorithmic way of determining fake vs. real news claims about COVID-19
 
