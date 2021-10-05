@@ -9,8 +9,9 @@
 - Related Paper: https://arxiv.org/abs/2006.00885
 
 ### Process
-- Discovered recurrent topics within the COVID-19 news claims using the CorEx Topic modeling algorithm
+- Discovered 20 recurrent topics within the COVID-19 news claims using the CorEx Topic modeling algorithm
 - Used the topics discovered within the claims, along with Twitter interaction of the claims (tweets and replies), as features in a predictive model to determine fake vs. true news claims regarding COVID-19
+  - Applied SMOTE oversampling technique on the fake news claims to offset the imbalance between real vs. fake news claims in the dataset
 
 ### Future steps
 - Apply anchoring in topic modeling process to see if topic derivation can be improved
@@ -19,5 +20,6 @@
   - Accuracy: 93.59%
   - AUC: 0.6710
 - Apply hyperparamter tuning through GridSeaarch to determine best overall model
+- Include additional features in predictive model such as claim source or claim date
 
 
