@@ -1,4 +1,4 @@
-## Can algorithms determine whether claims made about COVID-19 are real or fake?
+# Can algorithms determine whether claims made about COVID-19 are real or fake?
 
 ### This project was completed as part of the Columbia University 2021 Data Science Hackathon
 - Competition lasted about 14 hours to complete both code and presentation portions of submission
